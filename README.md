@@ -1,6 +1,6 @@
 Copyright 2015 - The CyanogenMod Project
 
-Device configuration for LG G4.
+Device configuration for LG G4 (T-Mobile).
 =====================================
 
 Basic   | Spec Sheet
